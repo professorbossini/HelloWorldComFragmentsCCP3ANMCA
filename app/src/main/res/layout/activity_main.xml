@@ -1,0 +1,18 @@
+<LinearLayout
+    android:orientation="vertical"
+    android:id="@+id/layoutFragment"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="br.com.bossini.helloworldcomfragmentsccp3anmca.HelloWorldFragment">
+
+    <!--<fragment
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/helloWorldFragment"
+        class="br.com.bossini.helloworldcomfragmentsccp3anmca.HelloWorldFragment"
+        tools:layout="@layout/fragment_hello_world"/> -->
+
+
+</LinearLayout>
